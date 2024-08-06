@@ -1,6 +1,6 @@
 # HTML-CSS
 **Introduction**
-HTML and CSS are the foundation of web development and the building blocks of web pages. The web consists of three programming languages: HTML, CSS, and JavaScript.
+HTML and CSS are the foundation of web development and the building blocks of web pages. The web consists of three programming languages: HTML, CSS, and JavaScript. &nbsp;
 **Programming languages** - known for their logical and consistent nature.
 **Internet** - acts as the meeting point for human and computer languages. 
 **Semantic markup**
