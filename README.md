@@ -1,16 +1,16 @@
 # HTML-CSS
 **Introduction**
-HTML and CSS are the foundation of web development and the building blocks of web pages. The web consists of three programming languages: HTML, CSS, and JavaScript. &nbsp;
-**Programming languages** - known for their logical and consistent nature.&nbsp;
-**Internet** - acts as the meeting point for human and computer languages. &nbsp;
-**Semantic markup** &nbsp;
+HTML and CSS are the foundation of web development and the building blocks of web pages. The web consists of three programming languages: HTML, CSS, and JavaScript. <br>
+**Programming languages** - known for their logical and consistent nature.<br>
+**Internet** - acts as the meeting point for human and computer languages. <br>
+**Semantic markup** <br>
 •	means labelling content for what it is.
 •	using semantic markup, ensures that screen readers and search engines can accurately interpret and categorize the information on a page.
-**What is a confident computer user?** &nbsp;
+**What is a confident computer user?** <br>
 •	Knowing how to cope when things go wrong
 •	 Knowing how to learn new computing skills independently
 
-**Hypertext Mockup Language (HTML)** &nbsp;
+**Hypertext Mockup Language (HTML)** <br>
 •	HTML forms the foundation of website and web app development
 •	Has a straightforward structure without any programming logic, loops, or functions – this is known as declarative language
 •	 It is the language that allows you to make sure your content is understandable to both people and computers
