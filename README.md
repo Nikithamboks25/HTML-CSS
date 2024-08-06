@@ -19,17 +19,17 @@ HTML and CSS are the foundation of web development and the building blocks of we
 •	HTML is designed to structure our content and bridge the gap between human and computer languages.
 •	Html is simple and offers resilience and robustness
 •	It handles missing and misspelled elements by taking a guess and fixing it. It displays the page regardless of the misspelled elements.
-**Cascading Style Sheet (CSS)**
+**Cascading Style Sheet (CSS)** <br>
 •	CSS is responsible of the look and feel of the web page, this includes the colors, fonts, and sizes used. Also capable of adding animation and interactions
 •	Hiccups in the CSS code, the browser skips that part and move on to the rest.
-**JavaScript**
+**JavaScript** <br>
 •	JavaScript is a scripting language used to develop web pages
 •	Allows developers to create a dynamic and interactive web page to interact with visitors and execute complex actions
 •	It enables users to load content into a document without reloading the entire page.
 •	JavaScript can be a bit fragile/delicate at times, this is because If there is an issue with the code or the browser is outdated and does not understand the code it refuses to run and does not figure out what to do like HTML or CSS
-**Web Browser and Website**
-**Website** - it is expected to work even after several years without any updates.
-**Web**
+**Web Browser and Website** <br>
+**Website** - it is expected to work even after several years without any updates. <br>
+**Web** <br>
 •	runs on various platforms like Mac, Windows, iOS, Android, Linux, and more. 
 •	Enable people to share content, even when our computers are different.
 •	Relies on three different programming languages — HTML, CSS, and JavaScript
