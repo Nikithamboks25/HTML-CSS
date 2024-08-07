@@ -172,7 +172,7 @@ HTML and CSS are the foundation of web development and the building blocks of we
   
   <b>Class Attribute: </b> Are commonly used, that allows the assigning of a resuable name to any element, which can then be styled using CSS for all elements sharing that class.
 
-  <b>ID Attribute: </b> similar to class attribute, but allows use of unique names once on the entire HTML page
+  ID Attribute: <b> similar to class attribute, but allows use of unique names once on the entire HTML page
 </ul>
 
 
