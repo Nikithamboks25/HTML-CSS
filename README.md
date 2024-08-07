@@ -160,6 +160,21 @@ HTML and CSS are the foundation of web development and the building blocks of we
 
 **HTML Capabilities**
 
+<ul>
+  <li> <b>Troubleshoot and Debugging Html code: </b> It is to inspect the html code in a browser developer tools</li>
+</ul>
+
+**HTML Attributes**
+<ul>
+  <li>Attributes are specific to a particular element. For example daytime willl be only used with time element. They can also work with multiple elements but not all</li>
+
+  <b>Global attributes: </b> are attributes in html that work universal. The different types and highly useful ones are:
+  
+  <b>Class Attribute: </b> Are commonly used, that allows the assigning of a resuable name to any element, which can then be styled using CSS for all elements sharing that class.
+
+  <b>ID Attribute: </b> similar to class attribute, but allows use of unique names once on the entire HTML page
+</ul>
+
 
 
 
