@@ -66,5 +66,20 @@ HTML and CSS are the foundation of web development and the building blocks of we
 •	Choice of the headline level is its meaning and not the appearance. Meaning it would make sense to make the main heading a h1 and the subheading a h2. This is to be able to distinguish what is most important and what is less important.<br>
 **Html Bold and Italics** <br>
 •	The are four html elements related to these, two for bold and two for italic
-•	The reason we use italics is to make strong points
+•	The reason we use italics is to make strong points <br>
+
+**Html Lists**\
+•	Lists on the internet do not always look like the traditional list w are familiar with
+•	List can be navigation bars with links, enticing photos, and headlines that are clickable.
+•	 There are different type of list elements, mainly : unorderded list elements , ordered lists elements, and definition list elements.
+
+**Unordered List Elements*
+<ul>
+  <li>This are the most common used list type</li>
+  <li>All of its items are wrapped with a "ul" element which stands for unordered list</li>
+  <li> Each list item is enclosed by the "li" element which represents a list item</li>
+  <li>To make the list more readable we need to indent the list items by adding space or tabs before each one</li>
+  <li>Indentation does not affect the appearance of a webpage, the browser determines the default appearence of the list</li>
+</ul>
+
 
