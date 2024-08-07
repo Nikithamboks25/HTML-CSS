@@ -99,26 +99,46 @@ HTML and CSS are the foundation of web development and the building blocks of we
 </ul>
 
 **HTML Quotes**
+<ul>
 <li>Html quotes are used to cite a individuals phrase, the elements that are used here are "cite" and "blockquote"</li>
 <li>The "cite" element is used to attribute the individuals phrase</li>
 <li>The "blockqoute" element is used to distinguish the qoute/phrase from its surrounding text by wrapping the whole thing up</li>
 <li>Both elements serve a semantic purpose and provide a convenient way to apply custom styling</li>
+</ul>
 
 **Inline Qoutes*
+<ul>
 <li>These qoutes appear within the text by simply being typed in and do not wrap anything</li>
 <li>Examples of inline qoutes either than "q" are elements like "<strong>", "<b>", "<I>", and "<em>" - These are called inline qoutes because they are meant to wrap around phrases of text that are inline with other content.  </li>
 <li> <b>block-level elements: </b> This element creates seperate blocks on a page, they are refered to standalone enttities that can be followed by another block</li>
+</ul>
 
 **Date and Time Elements**
+<ul>
 <li>These elements allow us to specify the date or time in a format that a computer will understand</li>
 <li>The format of the time within the date time attribute has to be specific in order for the computer to process it</li>
 <li>Machines prefer a highly standardized format, these times need to be indicated by using the time element. Machine-readable version prefers numbers in the 24-hour clock format, and we can choose whether to include seconds and fractions of a second or not. </li>
+</ul>
 
 **How to combine date and time attribute?*
+<ul>
 <li>First implement the date element then the time</li>
 <li>If you want to seperate them use a "T" or simply leave a space</li>
+</ul>
 
 **HTML Date and Time Inputs**
+<ul>
+  <li>Html simplifies the mess that comes with implementing date and times unlike other programming languages</li>
+  <li>"time" element is the single element used to mark anything that specifies a time of day, date, or duration in a way that a computer will understand</li>
+  <li>"datetime" attribute is used when wanting to convey the exact date or time to computers</li>
+  <li>Example on how it is written: "We write it like this: <time datetime="2025-05-08">May 8, 2025</time>."</li>
+</ul>
+
+**HTML Code, pre, and br**
+<ol>
+  <b>Code Element:</b>
+  <li> It is used to define a piece of computer code. The content inside is displayed in the browser's default monospace font but however one can customize it to desired look.</li>
+</ol>
 
 
 
