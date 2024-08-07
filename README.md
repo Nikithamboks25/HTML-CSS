@@ -135,10 +135,31 @@ HTML and CSS are the foundation of web development and the building blocks of we
 </ul>
 
 **HTML Code, pre, and br**
-<ol>
+<ul>
   <b>Code Element:</b>
   <li> It is used to define a piece of computer code. The content inside is displayed in the browser's default monospace font but however one can customize it to desired look.</li>
-</ol>
+  <li>It is treated as an inline element because it remains part of a sentence its in</li>
+  <li> "&lt" is a Html entity that is displayed as a less than sign(less thanTry it). The entity is useful when wanting to display text</li>
+  <li> "&gt" - Html entity that displays a greater than sign(greater thanTry it) </li>
+
+  <b>br Element:</b>
+  <li>Adds line break on sentences and browser will recognize</li>
+  <li>They can be added at the end of each line.</li>
+  <li>Its is a simple tag without an opening or closing tag.It does not contain anything inside it; it just indicates where a line break should happen.</li>
+
+  <b>pre Element:</b>
+  <li></li>
+</ul>
+
+**HTML Superscripts, Subscripts, and Small Text**
+<ul>
+  <li>These are used when wanting to mark up a certain content as having a different meaning than the rest</li>
+  <li> <b>Subscripts: </b> Are characters that are set below the normal baseline of a text</li>
+  <li> <b>Superscripts: </b> Are characters set above normal baseline of text</li>
+</ul>
+
+**HTML Capabilities**
+
 
 
 
