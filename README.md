@@ -82,4 +82,43 @@ HTML and CSS are the foundation of web development and the building blocks of we
   <li>Indentation does not affect the appearance of a webpage, the browser determines the default appearence of the list</li>
 </ul>
 
+**Ordered List Elements*
+<ol>
+  <li>This type of list uses a "ol" element to wrap the list items.</li>
+  <li>The "ol" stands for ordered list which means that there is a specific order on the list items, it will number the items showing the particular order of occurence</li>
+</ol>
+
+**Definition List/Description List Elements*
+<ul>
+  <li>This is used when we want to create a list that resembles a key-valu pair in computer Science</li>
+  <li>Meaning, this type of list will have a term and each term corresponding definition</li>
+  <li>The "dt" tag which stands for definition term is used to enclose the term or key</li>
+  <li>The "dd" tag which stands for description is used to enclose the description or value of the term - can have multiple of "dd" tags for one term</li>
+  <li>The "dl" tag which represents the definition list wraps up the entire list</li>
+  <li> "dd" tags and "dt" tags are placed side by side without any additional wrapper around them</li>
+</ul>
+
+**HTML Quotes**
+<li>Html quotes are used to cite a individuals phrase, the elements that are used here are "cite" and "blockquote"</li>
+<li>The "cite" element is used to attribute the individuals phrase</li>
+<li>The "blockqoute" element is used to distinguish the qoute/phrase from its surrounding text by wrapping the whole thing up</li>
+<li>Both elements serve a semantic purpose and provide a convenient way to apply custom styling</li>
+
+**Inline Qoutes*
+<li>These qoutes appear within the text by simply being typed in and do not wrap anything</li>
+<li>Examples of inline qoutes either than "q" are elements like "<strong>", "<b>", "<I>", and "<em>" - These are called inline qoutes because they are meant to wrap around phrases of text that are inline with other content.  </li>
+<li> <b>block-level elements: </b> This element creates seperate blocks on a page, they are refered to standalone enttities that can be followed by another block</li>
+
+**Date and Time Elements**
+<li>These elements allow us to specify the date or time in a format that a computer will understand</li>
+<li>The format of the time within the date time attribute has to be specific in order for the computer to process it</li>
+<li>Machines prefer a highly standardized format, these times need to be indicated by using the time element. Machine-readable version prefers numbers in the 24-hour clock format, and we can choose whether to include seconds and fractions of a second or not. </li>
+
+**How to combine date and time attribute?*
+<li>First implement the date element then the time</li>
+<li>If you want to seperate them use a "T" or simply leave a space</li>
+
+**HTML Date and Time Inputs**
+
+
 
