@@ -168,12 +168,26 @@ HTML and CSS are the foundation of web development and the building blocks of we
 <ul>
   <li>Attributes are specific to a particular element. For example daytime willl be only used with time element. They can also work with multiple elements but not all</li>
 
-  <b>Global attributes: </b> are attributes in html that work universal. The different types and highly useful ones are:
+  **Global attributes:* are attributes in html that work universal. The different types and highly useful ones are:
   
-  <b>Class Attribute: </b> Are commonly used, that allows the assigning of a resuable name to any element, which can then be styled using CSS for all elements sharing that class.
+  **Class Attribute:* Are commonly used, that allows the assigning of a resuable name to any element, which can then be styled using CSS for all elements sharing that class.
 
-  ID Attribute: <b> similar to class attribute, but allows use of unique names once on the entire HTML page
+  *ID Attribute** 
+  <li>similar to class attribute, but allows use of unique names once on the entire HTML page.</li>
+  <li>ID are used for CSS targeing but can sometimes cause issues. Therefore, CSS developers prefer using Class attributes.</li>
+  <li>ID are handy when specific elements need to be addressed in Javascript or targeted links</li>
+  
+  **"dir" and "lang Attributes*
+  <li>"dir" attribute explicitly indicates the direction in which the text flows, using "LTR" for left-to-right scripts and "RTL" for right-to-left scripts.</li>
+  <li>lang" attribute allows us to specify the language of the content using a short language code.</li>
+
+  **Content Editable Attribute:*
+  <li>Allows visitors to edit content on a web page</li>
+  <li>Allow interaction with the screen, keyboard, and assistive devices</li>
 </ul>
+
+
+
 
 
 
