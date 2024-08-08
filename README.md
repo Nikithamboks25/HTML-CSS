@@ -186,9 +186,48 @@ HTML and CSS are the foundation of web development and the building blocks of we
   <li>Allow interaction with the screen, keyboard, and assistive devices</li>
 </ul>
 
+**HTML Links**
+<ul>
+<li>When when wants to create a link, they can use the A element which stands for Anchor</li>
+<li>Then implement the "href"(HyperText Reference) attribute with the URL that is enclosed in qoutes</li>
+<li>The Url(Uniform Resource Locator) takes us to the intended page</li>
+</ul>
 
+**Absolute URL's**
+<ul>
+  <li>They point to a precise location on a web</li>
+  <li>It is compulsory on a absolute Url to include the HTTP(Hypertext Transport Protocol) or HTTPSecure</li>
+  <li> <b>HTTP: </b> This protocol defines the rules for communication on the web and is crucial for linking.</li>
 
+  **HTML URL Pathways**
+  <li>Url uses slashes to indicated that we should look deeper into the file or go one level down. The slashes formulate the path way of page or file</li>
 
+  **Navigation**
+  <li> "nav" element allow us to create menus or navigation bars</li>
+</ul>
 
+**HTML Working with Graphics and Images**
+<ul>
+  **Images**
+  <li> "img" element is used to add a image on a web page  </li>
+  **The following are the four attributes to be added for every image**
+  <ol>
+    <li>Source attribute (SRC), which tells the browser which image file to load</li>
+    <li>alt attribute (ALT), which provides a text description of the image.</li>>
+    <li>width and height attributes, which determine the size of the image.</li>
+  </ol>
 
+  **Image Formats**
+  <li>Image in a web page need to have a particula format that the web browser would understand</li>
+  <li>The main four file formats that are commonly used on the web are: GIF, SVG, JPG, and PNG</li>
+  <li>GIF: Have large areas of the same color but falls short when it comes to photographs. They support 256 colors. Images become pixelated unless retro vibe is used. Have transperent area</li>
+  <li>SVG: A vector file that contains instructions for drawing. They are perfect for icons and logos</li>
+  <li>JPG: Popular choice for compressing photographs and most cameras save images as this file format</li>
+  <li>PNG: Works well with transparency in a photograph</li>
+</ul>
 
+**HTML Generic Elements** - ```<div>``` annd ```<span>``` 
+<ul>
+  <li> ```<div>``` - is a block element</li>
+  <li> ```<span>``` - is a inline element</li>
+</ul>
