@@ -228,8 +228,8 @@ HTML and CSS are the foundation of web development and the building blocks of we
 
 **HTML Generic Elements** - ```<div>``` annd ```<span>``` 
 <ul>
-  <li> ```<div>```- is a block element</li>
-  <li> ```<span>``` - is a inline element</li>
+  ```<div>```- is a block element <br>
+  ```<span>``` - is a inline element
 </ul>
 
 **HTML PAGE**
