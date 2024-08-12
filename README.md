@@ -231,3 +231,51 @@ HTML and CSS are the foundation of web development and the building blocks of we
   <li> ```<div>``` - is a block element</li>
   <li> ```<span>``` - is a inline element</li>
 </ul>
+
+**HTML PAGE**
+<ul>
+  <li>HTML pages are retrieved when one opens up a web browser/view and enter a specific url that will redirect the user to that particular web page.</li>
+  <li> Web Server - is the one that responds by sending back the specific Html file located at that address</li>
+  <li>Basic process of the web - Users visit a URL, which prompts a request for an HTML file, and the server returns a single HTML file. </li>
+  <li> ```<doctype html>``` - indicates the era of a HTML file</li>
+  <li>```<html>``` - This is a html element that means everything wrapped by this tag has html content</li>
+  <li> ```<head></head>``` - Element that contains all the metdata that the browser needs to know but is not displayed on the page</li>
+  <li>```<body></body>``` - The body is where most action happens, it contains all content need for the paged and is composd by different elements inside it </li>
+
+
+**Document Head**
+<li>Document head include elements such as ```<meta>``` where it shows the character set that is not intended to be seen by users.</li>
+<li>```<meta>```- placed inside the head as they provide the metadata about the page</li>
+<li>```<meta name>``` or ```<title>``` - It is what appears on the browser tab or bookmark when saved. It is also the name that appears under top sites when a new browser tab is opened</li>
+  <li> ```<meta>``` - This tag has various purpose. One of its common use is to inform the browse the layout adjusted for small screens, making it responsive. Without this tage browser will assume we are following old layput.</li>
+  <li> ```<link>``` - This is a crucial element that is used extensively on the head section. It connects various assets that should load. Example: CSS files, fonts, and/or favicons</li>
+  <li> ```<link rel>``` - The rel attribute informs the browser about the specific type of asset</li>
+  <li> ```<link href>``` - The href attribute is used to specify the URL for the asset</li>
+  <li> ```<script></script>``` - Used in HTML document's head, but some also placed at the end of the document. It instructs the browser to load a JavaScript file.</li>
+
+**Content Structuring**
+This Subsection will touchbase on the typical structure inside the body, following the six elements:
+<ol>
+  
+  **Main**
+  <li> ```<main>``` - used once per webpage and tells the browser where the main content is located </li>
+    
+  **Header**
+    <li> ```<header>``` - usually found at the top of most web pages and may include a logo, site name, and navigation. It is used for site headers, article headers, and headers within the content. Not that Headers and Head elements are not the same. </li>
+    
+  **Footer**
+  <li> ```<footer>``` - portrays the extra information regarless the position on page, but most footers for some sites are allocated at the bottom of the page containing links, copyright information, and additional details about the company..</li>
+
+ **Article**
+ <li>The article element wraps around any type of content unit, whether it is a long written article, a short snippet, a teaser card, a tweet, or even an app element. It represents a standalone unit of content.</li>
+ <li>Article often starts with a title, subtitle, author's name, and publication date, which can also be considered a header</li>
+
+ **Section**
+ <li>A section element is used to mark sections of content, each section starts with its own headline. It is usefull for dividing different topic zones on a website</li>
+
+**Aside**
+<li>The aside element is for content that is off to the side, like sidebar information or additional details that accompany an article but are not part of its main flow. Example: Advertisments</li>
+</ol>
+</ul>
+
+
