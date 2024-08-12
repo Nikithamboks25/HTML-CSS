@@ -279,3 +279,29 @@ This Subsection will touchbase on the typical structure inside the body, followi
 </ul>
 
 
+**Working with Forms and Interactive Elements**
+
+**Form Fundamentals**
+<ol>
+  <li>Form fields are essential for the web and are used for various tasks like logging into websites, making purchases, conducting search, and adding content.</li>
+  <li> Use form element to create a form</li>
+  <li> Placing type attribute informs the web page what type of input should be taken in a text field</li>
+  <li>The "Required" attribute acts as a reminder to fill out all required fields on a web page and does not allow user to submit unless field is filled in</li>
+</ol>
+
+**HTML Tables**
+<ul>
+  <li>Html tables are used for Tabular Data</li>
+  <li>Table - refered to as a chart of data from a research project</li>
+  <li>Data table - refered as a bunch of information that is best communicated by aligning in rows and columns.</li>
+  <li>To create an HTML table, you use several different HTML elements in just the right combination. Table, TR, TH, and TD</li>
+![HTML-CSS101M1Fig82](https://github.com/user-attachments/assets/0a5c464e-5f9b-4d66-b11a-113ade90405b)
+</ul>
+
+**Module Focus - Cascading Style Sheets(CSS)**
+
+**What is CSS**
+
+
+
+
