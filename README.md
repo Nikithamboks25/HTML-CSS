@@ -228,7 +228,7 @@ HTML and CSS are the foundation of web development and the building blocks of we
 
 **HTML Generic Elements** - ```<div>``` annd ```<span>``` 
 <ul>
-  <li> ```<div>``` - is a block element</li>
+  <li> ```<div>```- is a block element</li>
   <li> ```<span>``` - is a inline element</li>
 </ul>
 
@@ -264,7 +264,7 @@ This Subsection will touchbase on the typical structure inside the body, followi
     <li> ```<header>``` - usually found at the top of most web pages and may include a logo, site name, and navigation. It is used for site headers, article headers, and headers within the content. Not that Headers and Head elements are not the same. </li>
     
   **Footer**
-  <li> ```<footer>``` - portrays the extra information regarless the position on page, but most footers for some sites are allocated at the bottom of the page containing links, copyright information, and additional details about the company..</li>
+  <li> ```<footer></footer>``` - portrays the extra information regarless the position on page, but most footers for some sites are allocated at the bottom of the page containing links, copyright information, and additional details about the company..</li>
 
  **Article**
  <li>The article element wraps around any type of content unit, whether it is a long written article, a short snippet, a teaser card, a tweet, or even an app element. It represents a standalone unit of content.</li>
