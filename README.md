@@ -301,7 +301,21 @@ This Subsection will touchbase on the typical structure inside the body, followi
 **Module Focus - Cascading Style Sheets(CSS)**
 
 **What is CSS**
+<ul>
+  <li>It is like a CSS fle that holds all the styles of a webpage that will add visual appeal to the page.</li>
+  <li>To connect Html and Css, one should simply link.</li>
 
+  **CSS Two Parts - The Selector and Declaration Block**
+  <li>The Selector: It specifies a pattern in html, and if that pattern match, the style within the declaration block are applied to the corresponding html elements</li>
 
+  **CSS Components**
+  <li>The two style declaration that CSS consist of is "Property" and "Value"</li>
+  ![HTML-CSS102Fig2](https://github.com/user-attachments/assets/73200f62-dcc7-4e2a-8f18-c7bd3df111ae)
+</ul>
 
+**Comment and Element Selector**
+<li> CSS write their comments like /*Hello World*/ </li>
+<ul>
+  
+</ul>
 
