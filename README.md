@@ -315,7 +315,30 @@ This Subsection will touchbase on the typical structure inside the body, followi
 
 **Comment and Element Selector**
 <li> CSS write their comments like /*Hello World*/ </li>
+<li> Elements can be selected singly or multiple to apply styling</li>
 <ul>
+
+**Writing a Class Selector**
+<li>To style a specific element text, you can assign classes to the HTML element, this creates a reference point for the styling</li>
+<li>A class is a attribute that can be added to any HTML element, by providing additional details of that element.</li>
+<li> Span elements can also be used with class attribute to style a part of a paragraph</li>
+
+**Grouping Selectors**
+<li>Useful for styling different element to one particular pattern by combining them</li>
+
+**Descendent Selectors**
+<li>A descendant selector allows us to select list items that are descendants of either an ordered or an unordered list. The relationship can be direct or indirect, similar to a family tree.</li>
+<li>Example: The ordered list head can have its own styling and the childen list can have a diffrent style. The Descendent Selector use the code like this "OL LI". The space between "OL" and "LI" signifies the descendant relationship.</li>
+</ul>
+
+**Identify a Color Scheme**
+Users can also explore other combinations like
+<ul>
+  <li>Monochromatic- where two similar colors are chosen </li>
+  <li>Analogous - involves various shades of greens and blues, or triadic, which creates a pattern on the color wheel using an equilateral triangle</li>
+  <li>There is also the option of tetradic, which generates a square's worth of colors. </li>
+
+ 
   
 </ul>
 
