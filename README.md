@@ -338,7 +338,51 @@ Users can also explore other combinations like
   <li>Analogous - involves various shades of greens and blues, or triadic, which creates a pattern on the color wheel using an equilateral triangle</li>
   <li>There is also the option of tetradic, which generates a square's worth of colors. </li>
 
- 
-  
+ **Background and Text Color in CSS**
+ <li>Background color property is ```<background-color></background-color>``` </li>
+ <li>To set background of the whole page, use the body element on styles</li>
+
+ **Understanding Images in CSS**
+ ![HTML-CSS102Fig22](https://github.com/user-attachments/assets/d10c86e8-7273-455b-91ab-013bd6a7aaca)
+
+ The web supports these three types of image formats
+ <li>GIF: Has limited colors but could include transparency and animation.</li>
+ <li>PNG: Has more colors and transparency but no animation. GIF and PNG are suitable for illustrations such as logos or cartoons. </li>
+ <li>JPG: Stands for Joint Photographic Experts Group, optimized for photographs and supported millions of colors but lacked transparency and animation.</li>
+ <li>WebP: A new image format that has emerged. It can be used for any image type and offers high  compression for smaller file sizes, resulting in faster website loading times</li>
+ <li>Choosing the correct image format is vital to prevent color loss and potential large size</li>
+ <li>CSS allows the insertation of background images</li>
+ <li>Shorthand property is used for more flexibility on background by simply adding "repeat-X," the image will repeat only horizontally.</li>
+ <li>Use "repeat-Y" to repeat it vertically.</li>
+ <li>To control where the background image starts, specify values like "center," "right," or "left.</li>
+ <li>Additionally, you can use "bottom" to push the image to the bottom of the page.</li>
+ <li>Depending on the background image one is using, a percentages can be used to adjust where these images appear on the page, making it good</li>
+</ul>
+
+**Understanding Type in CSS**
+<ol>
+  **COMMON TYPE OF FONTS**
+  <li>Serif: Have small lines at the end of the letters called serifs. They were used for print materials with long text blocks in the past. They helped with connecting letters that seemed to never align when printed, making the text easier to read</li>
+  <li>Sans Serif: Have a more modern appearance than serifs. Used for extended text because they look clean and easy to read</li>
+  <li>Common Fontt Stack: is Arial, Helvetica, sans serif. Arial is commonly available on PCs, Helvetica on Macs, and sans serif is a fallback that requests the device's default sans serif font if Arial or Helvetica are not available.</li>
+</ol>
+
+**Applying Type Formatting with CSS**
+<ul>
+<li>A "font-family" property is added to the body element</li>
+<li>One should install fonts that they want to use otherwise the computer will set the default font which is Sans Serif.</li>
+</ul>
+
+**Types of Sizing**
+<ol>
+  <li>Absolute: are sizes such as points or pixels, they remain the same regardless of the screen size</li>
+  <li>Relative: are relative units like percentages or R-E-M (pronounced "rem") can adjust based on the page size. So whenever someone zoom in, the font size uses relative units scale proportionally with the rest of the page</li>
+</ol>
+
+**The Box Model in CSS**
+<ul>
+  The below is a boc model
+  ![HTML-CSS102Fig36](https://github.com/user-attachments/assets/55123db4-8434-4ff6-8876-d49d9279795f)
+  <li></li>
 </ul>
 
