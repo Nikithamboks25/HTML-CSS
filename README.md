@@ -364,7 +364,7 @@ Users can also explore other combinations like
   **COMMON TYPE OF FONTS**
   <li>Serif: Have small lines at the end of the letters called serifs. They were used for print materials with long text blocks in the past. They helped with connecting letters that seemed to never align when printed, making the text easier to read</li>
   <li>Sans Serif: Have a more modern appearance than serifs. Used for extended text because they look clean and easy to read</li>
-  <li>Common Fontt Stack: is Arial, Helvetica, sans serif. Arial is commonly available on PCs, Helvetica on Macs, and sans serif is a fallback that requests the device's default sans serif font if Arial or Helvetica are not available.</li>
+  <li>Common Font Stack: is Arial, Helvetica, sans serif. Arial is commonly available on PCs, Helvetica on Macs, and sans serif is a fallback that requests the device's default sans serif font if Arial or Helvetica are not available.</li>
 </ol>
 
 **Applying Type Formatting with CSS**
@@ -381,8 +381,17 @@ Users can also explore other combinations like
 
 **The Box Model in CSS**
 <ul>
-  The below is a boc model
+  The below is a box model
   ![HTML-CSS102Fig36](https://github.com/user-attachments/assets/55123db4-8434-4ff6-8876-d49d9279795f)
   <li></li>
+
+  **Styling Links with CSS**
+  <li>Typical links are blue and underlined, and once clicked on them they become purple indicated that webpage has been visited.</li>
+  <li>the underline can be removed using "text-decoration: none."</li>
+  <li>The best approach to style links is to target them by using the anchor tag "a"</li>
+  <li>We can specify "a" and set the color to 648fff, a nicer blue color than before</li>
+  <li>A common exception is "a:hover" which triggers when a user hover over a link</li>
+  
 </ul>
+
 
