@@ -391,7 +391,19 @@ Users can also explore other combinations like
   <li>The best approach to style links is to target them by using the anchor tag "a"</li>
   <li>We can specify "a" and set the color to 648fff, a nicer blue color than before</li>
   <li>A common exception is "a:hover" which triggers when a user hover over a link</li>
-  
+  <li>There are different states for links, and we can make exceptions for each state.</li>
+  <li> "a:hover" - a state that is triggered when we hover over a link.</li>
+  <li>"text-decoration: none" - will remove the underline when hovering over a link</li>
+  <li>"a:link" - is a style used for unvisited links</li>
+  <li>"a:visited" - is a style for visited links</li>
+  <li>Use "a" and then "a:hover" or "a:link," "a:visited," and "a:hover" in that specific order for the styling to work correctly.</li>
+  <li>Underlines in a link can be mainly used in long paragraph text to assist colorblind people to differentiate between normal text and link. However on nav bars there should be no underlines as people will expect redirection to other pages</li>  
+
+  **Inheritence in CSS**
+  <li>The type of properties that generally inherit are text, font-family, font-weight, etv</li>
+
+  **Debugging in CSS**
+  <li>Best practice for debugging CSS is to put a border or background color on the thing you are trying to style. If you cannot see it, you cannot style it</li>
 </ul>
 
 
